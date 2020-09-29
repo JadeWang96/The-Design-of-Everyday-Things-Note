@@ -4,7 +4,7 @@
 
 ## Table of Content
 - Chapter 1: [The Psychopathology of Everyday Things](#chapter-1-the-psychopathology-of-everyday-things)
-- Chapter 2: [The Psychology pf Everyday Actions](#chapter-2-the-psychology-pf-everyday-actions)
+- Chapter 2: [The Psychology of Everyday Actions](#chapter-2-the-psychology-of-everyday-actions)
 - Chapter 3: [Knowledge in the Head and in the World](#chapter-3-knowledge-in-the-head-and-in-the-world)
 - Chapter 4: [Knowing What to Do: Constraints, Discoverability, and Feedback](#chapter-4-knowing-what-to-do-constraints-discoverability-and-feedback)
 - Chapter 5: [Human Error? No, Bad Design](#chapter-5-human-error-no-bad-design)
@@ -107,7 +107,110 @@ functions in each device also complicates life by making the device harder to le
 The challenge is to use the principles of human-centered design to produce positive results, products that enhance lives and add to our pleasure and enjoyment.
 ```
 
-## Chapter 2: The Psychology pf Everyday Actions
+## Chapter 2: The Psychology of Everyday Actions
+### How People Do Things: The Gulfs of Execution and Evaluation
+```text
+- The Gulf of Execution: where they try to figure out how it operates
+- The Gulf of Evaluation: where they try to figure out what happened
+```
+
+### The Seven Stages of Action (p.59)
+- 2 parts of an action:
+    ```text
+    - Executing the action (doing)
+    - Evaluating the results (interpreting)
+    ```
+- 7 Stages (action cycle, p.60):
+    ```text
+    1. Goal (form the goal)
+    2. Plan (the action)
+    3. Specify (an action sequence)
+    4. Perform (the action sequence)
+    5. Perceive (the state of the world)
+    6. Interpret (the perception)
+    7. Compare (the outcome with the goal)
+    ```
+
+### Human Thought: Mostly Subconscious (p. 66)
+```text
+Subconscious             |       Conscious
+===========================================================
+Fast                     |       Slow
+Automatic                |       Controlled
+Multiple resources       |       Limited resources
+Controls skilled behavior|       Invoked for novel      
+                         |       situations: when 
+                         |       learning, when in danger, 
+                         |       when things go wrong
+```
+
+
+### Human Cognition and Emotion (p. 68)
+- 3 Levels of Processing
+```text
+1. Visceral: the lizard brain. These are part of the basic protective mechanisms of the human affective system, making quick judgments about the environment.
+
+2. Behavioral: the home of learned skills, triggered by situations that match the appropriate patterns.
+
+3. Reflective: the home of conscious cognition. This is where deep understanding develops, where reasoning and conscious decision-making take place.
+```
+- Design must take place at all levels
+
+- High-level reflective cognition can trigger lower-level emotions. 
+
+- Lower-level emotions can trigger higher-level reflective cognition.
+
+### The Seven Stages of Action and the Three Levels of Processing (p.74)
+```text
+1. Visceral response is at the lowest level: the control of simple muscles and sensing the state of the world and body. 
+
+2. The behavioral level is about expectations, so it is sensitive to the expectations of the action sequence
+and then the interpretations of the feedback. 
+
+3. The reflective level is a part of the goal- and plan-setting activity as well as affected by the comparison
+of expectations with what has actually happened.
+```
+
+### People as Storytellers
+```text
+Everyone forms stories (conceptual models) to explain what they have observed.
+```
+
+### Blaming the Wrong Things (p.78)
+#### LEARNED HELPLESSNESS
+```text
+It refers to the situation in which people experience repeated failure at a task. 
+As a result, they decide that the task cannot be done, at least not by them: they are helpless. 
+They stop trying.
+```
+
+#### POSITIVE PSYCHOLOGY
+```text
+Think positively, for yourself and for the people you interact with.
+```
+
+### Falsely Blaming Yourself (p. 84)
+```
+```
+
+### The Seven Stages of Action: Seven Fundamental Design Principles (p.90)
+```text
+1. Discoverability. It is possible to determine what actions are possible and the current state of the device.
+
+2. Feedback. There is full and continuous information about the results of actions and the current state of the product or service. 
+After an action has been executed, it is easy to determine the new state.
+
+3. Conceptual model. The design projects all the information needed to create a good conceptual model of the system, leading to understanding and a feeling of control. 
+The conceptual model enhances both discoverability and evaluation of results.
+
+4. Affordances. The proper affordances exist to make the desired actions possible.
+
+5. Signifiers. Effective use of signifiers ensures discoverability and that the feedback is well communicated and intelligible.
+
+6. Mappings. The relationship between controls and their actions follows the principles of good mapping, enhanced as much as possible through spatial layout and temporal contiguity.
+
+7. Constraints. Providing physical, logical, semantic, and cultural constraints guides actions and eases interpretation.
+```
 
 ## Chapter 3: Knowledge in the Head and in the World
 
