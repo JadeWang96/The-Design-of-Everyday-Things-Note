@@ -2,17 +2,17 @@
 
 :skull: Prepare for the mid-term exam
 
-## Table of Content
-- Chapter 1: [The Psychopathology of Everyday Things](#chapter-1-the-psychopathology-of-everyday-things)
-- Chapter 2: [The Psychology of Everyday Actions](#chapter-2-the-psychology-of-everyday-actions)
-- Chapter 3: [Knowledge in the Head and in the World](#chapter-3-knowledge-in-the-head-and-in-the-world)
+## :scroll: Table of Content
+- Chapter 1: [The Psychopathology of Everyday Things](#cloud-chapter-1-the-psychopathology-of-everyday-things)
+- Chapter 2: [The Psychology of Everyday Actions](#sunny-chapter-2-the-psychology-of-everyday-actions)
+- Chapter 3: [Knowledge in the Head and in the World](#snowflake-chapter-3-knowledge-in-the-head-and-in-the-world)
 - Chapter 4: [Knowing What to Do: Constraints, Discoverability, and Feedback](#chapter-4-knowing-what-to-do-constraints-discoverability-and-feedback)
 - Chapter 5: [Human Error? No, Bad Design](#chapter-5-human-error-no-bad-design)
 - Chapter 6: [Design Thinking](#chapter-6-design-thinking)
 - Chapter 7: [Design in the World of Business](#chapter-7-design-in-the-world-of-business)
 
 
-## Chapter 1: The Psychopathology of Everyday Things
+## :cloud: Chapter 1: The Psychopathology of Everyday Things
 - Important characteristics of good design:
   ```text
   - Discoverability: Able to figure out what actions are possible and where and how to perform them
@@ -107,7 +107,7 @@ functions in each device also complicates life by making the device harder to le
 The challenge is to use the principles of human-centered design to produce positive results, products that enhance lives and add to our pleasure and enjoyment.
 ```
 
-## Chapter 2: The Psychology of Everyday Actions
+## :sunny: Chapter 2: The Psychology of Everyday Actions
 ### How People Do Things: The Gulfs of Execution and Evaluation
 ```text
 - The Gulf of Execution: where they try to figure out how it operates
@@ -133,15 +133,14 @@ The challenge is to use the principles of human-centered design to produce posit
 
 ### Human Thought: Mostly Subconscious (p. 66)
 ```text
-Subconscious             |       Conscious
-===========================================================
-Fast                     |       Slow
-Automatic                |       Controlled
-Multiple resources       |       Limited resources
-Controls skilled behavior|       Invoked for novel      
-                         |       situations: when 
-                         |       learning, when in danger, 
-                         |       when things go wrong
+Subconscious              |      Conscious
+===================================================================
+Fast                      |      Slow
+Automatic                 |      Controlled
+Multiple resources        |      Limited resources
+Controls skilled behavior |      Invoked for novel situations: when
+                          |      learning, when in danger, 
+                          |      when things go wrong
 ```
 
 
@@ -212,7 +211,100 @@ The conceptual model enhances both discoverability and evaluation of results.
 7. Constraints. Providing physical, logical, semantic, and cultural constraints guides actions and eases interpretation.
 ```
 
-## Chapter 3: Knowledge in the Head and in the World
+## :snowflake: Chapter 3: Knowledge in the Head and in the World
+### Precise Behavior from Imprecise Knowledge (p.94)
+4 reasons:
+```text
+1. Knowledge is both in the head and in the world.
+2. Great precision is not required.
+3. Natural constraints exist in the world.
+4. Knowledge of cultural constraints and conventions exists in the head.
+```
+
+#### KNOWLEDGE IS IN THE WORLD
+```text
+Whenever knowledge needed to do a task is readily available in the world, the need for us to learn it diminishes.
+```
+
+People function through their use of two kinds of knowledge:
+```text
+- Knowledge of: includes the knowledge of facts and rules. “Stop at red traffic lights.”
+
+- Knowledge how: what psychologists call procedural knowledge. 
+The knowledge that enables a person to be a skilled musician, to return a serve in tennis, or to move the tongue properly when saying the phrase “frightening witches.”
+```
+
+#### WHEN PRECISION IS UNEXPECTEDLY REQUIRED
+```text
+Normally, people do not need precision in their judgments. 
+All that is needed is the combination of knowledge in the world and in the head that makes decisions unambiguous. 
+Everything works just fine unless the environment changes so that the combined knowledge is no longer sufficient: this can lead to havoc.
+```
+
+#### CONSTRAINTS SIMPLIFY MEMORY
+```text
+External constraints exert control over the permissible choice of words, thus dramatically reducing the memory load.
+```
+
+### Memory Is Knowledge in the Head
+### The Structure of Memory (p.110)
+#### SHORT-TERM OR WORKING MEMORY
+```text
+Retains the most recent experiences or material that is currently being thought about. 
+It is the memory of the just present. Information is retained automatically and retrieved without effort; 
+but the amount of information that can be retained this way is severely limited.
+```
+#### LONG-TERM MEMORY
+```text
+Memory for the past. As a rule, it takes time for information to get into LTM and time and effort to get it out again.
+
+Knowledge in the head is actually knowledge in memory: internal knowledge
+```
+Two ways to retrieve knowledge:
+```text
+1. Memory for arbitrary things. The items to be retained seem arbitrary, with no meaning and no particular relationship to one another or to things already known.
+
+2. Memory for meaningful things. The items to be retained form meaningful relationships with themselves or with other things already known.
+```
+
+### Approximate Models: Memory in the Real World (p.119)
+#### SCIENTIFIC THEORY VERSUS EVERYDAY PRACTICE
+
+
+### Knowledge in the Head(p.125)
+#### REMINDING: PROSPECTIVE MEMORY
+```text
+the first phrase simply denotes the task of remembering to do some activity at a future time. 
+The second phrase denotes planning abilities, the ability to imagine future scenarios.
+```
+
+2 aspects to a reminder:
+```text
+- the signal: knowing that something is to be remembered.
+- the message: remembering the information itself.
+```
+
+### The Tradeoff Between Knowledge in the World and in the Head (p.128)
+```text
+Gaining the advantages of knowledge in the world means losing the advantages of knowledge in the head.
+
+Detailed info see p.129 table
+```
+
+### Memory in Multiple Heads, Multiple Devices (p.130)
+
+### Natural Mapping
+3 levels of mapping:
+```text
+- Best mapping: Controls are mounted directly on the item to be controlled.
+
+- Second-best mapping: Controls are as close as possible to the object to be controlled.
+
+- Third-best mapping: Controls are arranged in the same spatial configuration as the objects to be controlled.
+```
+
+### Culture and Design: Natural Mappings Can Vary with Culture (p.137)
+
 
 ## Chapter 4: Knowing What to Do: Constraints, Discoverability, and Feedback
 
