@@ -6,10 +6,10 @@
 - Chapter 1: [The Psychopathology of Everyday Things](#cloud-chapter-1-the-psychopathology-of-everyday-things)
 - Chapter 2: [The Psychology of Everyday Actions](#sunny-chapter-2-the-psychology-of-everyday-actions)
 - Chapter 3: [Knowledge in the Head and in the World](#snowflake-chapter-3-knowledge-in-the-head-and-in-the-world)
-- Chapter 4: [Knowing What to Do: Constraints, Discoverability, and Feedback](#chapter-4-knowing-what-to-do-constraints-discoverability-and-feedback)
-- Chapter 5: [Human Error? No, Bad Design](#chapter-5-human-error-no-bad-design)
-- Chapter 6: [Design Thinking](#chapter-6-design-thinking)
-- Chapter 7: [Design in the World of Business](#chapter-7-design-in-the-world-of-business)
+- Chapter 4: [Knowing What to Do: Constraints, Discoverability, and Feedback](#zap-chapter-4-knowing-what-to-do-constraints-discoverability-and-feedback)
+- Chapter 5: [Human Error? No, Bad Design](#ocean-chapter-5-human-error-no-bad-design)
+- Chapter 6: [Design Thinking](#partly_sunny-chapter-6-design-thinking)
+- Chapter 7: [Design in the World of Business](#moon-chapter-7-design-in-the-world-of-business)
 
 
 ## :cloud: Chapter 1: The Psychopathology of Everyday Things
@@ -306,10 +306,60 @@ Detailed info see p.129 table
 ### Culture and Design: Natural Mappings Can Vary with Culture (p.137)
 
 
-## Chapter 4: Knowing What to Do: Constraints, Discoverability, and Feedback
+## :zap: Chapter 4: Knowing What to Do: Constraints, Discoverability, and Feedback
+### Four Kinds of Constraints: Physical, Cultural, Semantic, and Logical (p.144)
+4 kinds of constraints:
+```text
+- Physical: rely upon properties of the physical world for their operation; no special training is necessary.
 
-## Chapter 5: Human Error? No, Bad Design
+- Cultural: Each culture has a set of allowable actions for social situations.
 
-## Chapter 6: Design Thinking
+- Semantic: rely upon the meaning of the situation to control the set of possible actions.
 
-## Chapter 7: Design in the World of Business
+- Logical: there is a logical relationship between the spatial or functional layout of components and the things that they affect or are affected by.
+```
+
+### Applying Affordances, Signifiers, and Constraints to Everyday Objects (p.151)
+#### ACTIVITY-CENTERED CONTROLS
+
+### Constraints That Force the Desired Behavior (p.160)
+#### FORCING FUNCTIONS
+```text
+A form of physical constraint: situations in which the actions are constrained so that failure at one stage prevents the next step from happening.
+```
+
+#### INTERLOCKS
+```text
+Forces operations to take place in proper sequence.
+```
+
+#### LOCK-INS
+```text
+A lock-in keeps an operation active, preventing someone from prematurely stopping it.
+```
+
+#### LOCKOUTS
+```text
+A lockout prevents someone from entering a space that is dangerous, or prevents an event from occurring.
+```
+
+### Conventions, Constraints, and Affordances (p.164)
+#### CONVENTIONS ARE CULTURAL CONSTRAINTS
+#### WHEN CONVENTIONS CHANGE: THE CASE OF DESTINATION-CONTROL ELEVATORS
+#### PEOPLE’S RESPONSES TO CHANGES IN CONVENTIONS
+
+### The Faucet: A Case History of Design (p.169)
+### Using Sound as Signifiers (p.174)
+#### WHEN SILENCE KILLS
+```text
+- Alerting
+- Orientation
+- Lack of annoyance
+- Standardization versus individualization
+```
+
+## :ocean: Chapter 5: Human Error? No, Bad Design
+
+## :partly_sunny: Chapter 6: Design Thinking
+
+## :moon: Chapter 7: Design in the World of Business
