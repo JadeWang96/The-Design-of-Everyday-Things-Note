@@ -359,6 +359,141 @@ A lockout prevents someone from entering a space that is dangerous, or prevents 
 ```
 
 ## :ocean: Chapter 5: Human Error? No, Bad Design
+### Understanding Why There Is Error (p.182)
+#### ROOT CAUSE ANALYSIS
+```text
+Investigate the accident until the single, underlying cause is found.
+```
+#### THE FIVE WHYS
+
+### Deliberate Violations (p.188)
+### Two Types of Errors: Slips and Mistakes (p.189)
+#### DEFINITIONS: ERRORS, SLIPS, AND MISTAKES
+Errors have two major forms.
+```text
+- Slips occur when the goal is correct, but the required actions are not done properly: the execution is flawed. 
+
+- Mistakes occur when the goal or plan is wrong.
+
+- Slips and mistakes can be further divided based upon their underlying causes. 
+
+- Memory lapses can lead to either slips or mistakes, depending upon whether the memory failure was at the highest level of cognition (mistakes) or at lower (subconscious) levels (slips).
+
+- Although deliberate violations of procedures are clearly inappropriate behaviors that often lead to accidents, these are not considered as errors.
+```
+
+##### SLIPS
+2 major classes of slips:
+```text
+- action-based
+- memory-lapse
+```
+##### MISTAKES
+3 major classes:
+```text
+- rule-based
+- knowledge-based
+- memory-lapse
+```
+
+##### ERROR AND THE SEVEN STAGES OF ACTION (p.191)
+
+### The Classification of Slips (p.192)
+#### CAPTURE SLIPS
+```text
+Defined as the situation where, instead of the desired activity, a more frequently or recently performed one gets done instead: it captures the activity.
+
+Capture errors are partial memory-lapse errors.
+```
+#### DESCRIPTION-SIMILARITY SLIPS
+```text
+The error is to act upon an item similar to the target. This happens when the description of the target is sufficiently vague.
+```
+#### MEMORY-LAPSE SLIPS
+```text
+The immediate cause of most memory-lapse failures is interruptions, events that intervene between the time an action is decided upon and the time it is completed.
+
+ways to combat memory-lapse errors:
+- minimize the number of steps
+- provide vivid reminders of steps that need to be completed
+```
+
+#### MODE-ERROR SLIPS
+```text
+A mode error occurs when a device has different states in which the same controls have different meanings: we call these states modes.
+
+Mode errors are inevitable in anything that has more possible
+actions than it has controls or displays; that is, the controls mean different things in the different modes.
+```
+
+### The Classification of Mistakes (p.198)
+#### RULE-BASED MISTAKES
+```text
+- The situation is mistakenly interpreted
+- The correct rule is invoked, but the rule itself is faulty
+- The correct rule is invoked, but the outcome is incorrectly evaluated.
+```
+#### KNOWLEDGE-BASED MISTAKES
+```text
+Knowledge-based behavior takes place when the situation is novel enough that there are no skills or rules to cover it.
+```
+
+#### MEMORY-LAPSE MISTAKES
+```text
+Memory lapses can lead to mistakes if the memory failure leads to forgetting the goal or plan of action. 
+A common cause of the lapse is an interruption that leads to forgetting the evaluation of the current state of the environment.
+```
+
+### Social and Institutional Pressures (p.205)
+#### CHECKLISTS
+```text
+Checklists are powerful tools, proven to increase the accuracy of behavior and to reduce error, particularly slips and memory lapses.
+```
+
+### Reporting Error (p.210)
+#### CASE STUDY: JIDOKA—HOW TOYOTA HANDLES ERROR
+#### POKA-YOKE: ERROR PROOFING
+#### NASA’S AVIATION SAFETY REPORTING SYSTEM
+
+### Detecting Error (p.213)
+```text
+Errors do not necessarily lead to harm if they are discovered quickly.
+```
+#### EXPLAINING AWAY MISTAKES
+##### IN HINDSIGHT, EVENTS SEEM LOGICAL
+
+### Designing for Error (p.217)
+```text
+- Understand the causes of error and design to minimize those causes.
+
+- Do sensibility checks.
+
+- Make it possible to reverse actions—to “undo” them—or make it harder to do what cannot be reversed.
+
+- Make it easier for people to discover the errors that do occur, and make them easier to correct.
+
+- Don’t treat the action as an error; rather, try to help the person complete the action properly. Think of the action as an approximation to what is desired.
+```
+
+#### DESIGN LESSONS FROM THE STUDY OF ERRORS
+##### ADDING CONSTRAINTS TO BLOCK ERRORS
+##### UNDO
+##### CONFIRMATION AND ERROR MESSAGES
+```text
+- Make the item being acted upon more prominent.
+- Make the operation reversible.
+```
+
+#### SENSIBILITY CHECKS
+#### MINIMIZING SLIPS
+#### THE SWISS CHEESE MODEL OF HOW ERRORS LEAD TO ACCIDENTS
+
+### When Good Design Isn’t Enough (p. 229)
+#### WHEN PEOPLE REALLY ARE AT FAULT
+
+### Resilience Engineering (p.230)
+### The Paradox of Automation (p.232)
+### Design Principles for Dealing with Error (p.234)
 
 ## :partly_sunny: Chapter 6: Design Thinking
 
