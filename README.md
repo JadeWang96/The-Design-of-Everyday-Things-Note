@@ -496,5 +496,70 @@ Errors do not necessarily lead to harm if they are discovered quickly.
 ### Design Principles for Dealing with Error (p.234)
 
 ## :partly_sunny: Chapter 6: Design Thinking
+### Solving the Correct Problem (p.237)
+```text
+Good designers never start by trying to solve the problem given to them: they start by trying to understand what the real issues are.
+```
+### The Double-Diamond Model of Design (p.239)
+```text
+Start with an idea, and through the initial design research, expand the thinking to explore the
+fundamental issues. 
+
+Only then is it time to converge upon the real, underlying problem. 
+
+Similarly, use design research tools to explore a wide variety of solutions before converging upon one.
+```
+
+### The Human-Centered Design Process (p.240)
+4 different activities in the human-centered design
+process:
+```text
+1. Observation
+2. Idea generation (ideation)
+3. Prototyping
+4. Testing
+```
+
+#### OBSERVATION
+##### DESIGN RESEARCH VERSUS MARKET RESEARCH
+##### IDEA GENERATION
+2 major rules + 1:
+```text
+- Generate numerous ideas.
+- Be creative without regard for constraints.
+
+- Question everything
+```
+##### PROTOTYPING
+##### TESTING
+##### ITERATION
+##### ACTIVITY-CENTERED VERSUS HUMAN-CENTERED DESIGN
+##### ON THE DIFFERENCES BETWEEN TASKS AND ACTIVITIES
+##### ITERATIVE DESIGN VERSUS LINEAR STAGES
+
+### What I Just Told You? It Doesn’t Really Work That Way (p.255)
+#### DON NORMAN’S LAW OF PRODUCT DEVELOPMENT
+```text
+The day a product development process starts, it is behind schedule and above budget.
+```
+### The Design Challenge (p.258)
+#### PRODUCTS HAVE MULTIPLE, CONFLICTING REQUIREMENTS
+#### DESIGNING FOR SPECIAL PEOPLE
+#### THE STIGMA PROBLEM
+#### Complexity Is Good; It Is Confusion That Is Bad
+#### Standardization and Technology
+##### ESTABLISHING STANDARDS
+##### WHY STANDARDS ARE NECESSARY: A SIMPLE ILLUSTRATION
+##### A STANDARD THAT TOOK SO LONG, TECHNOLOGY OVERRAN IT
+##### A STANDARD THAT NEVER CAUGHT ON: DIGITAL TIME
+
+### Deliberately Making Things Difficult (p.274)
+### Design: Developing Technology for People (p.276)
 
 ## :moon: Chapter 7: Design in the World of Business
+### Competitive Forces (p.278)
+#### FEATURITIS: A DEADLY TEMPTATION
+#### New Technologies Force Change
+#### How Long Does It Take to Introduce a New Product?
+
+### Two Forms of Innovation: Incremental and Radical (p.298)
